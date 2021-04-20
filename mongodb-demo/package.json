@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-demo",
+  "version": "1.0.0",
+  "description": "test-mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zzm",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.5"
+  }
+}
